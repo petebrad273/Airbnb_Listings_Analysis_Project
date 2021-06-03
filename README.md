@@ -1,4 +1,4 @@
-# Airbnb_Listings_Analysis_Project
+# Airbnb Listings Analysis Project
 ## Objective
 Airbnb has quickly become one of the most popular online marketplaces for lodging around the world. Los Angeles, California is home to one of the largest number of Airbnb properties in the United States.
 
