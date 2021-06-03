@@ -9,4 +9,4 @@ This case study explores what factors may contribute to an Airbnb listings' numb
 ## What's Included?
 1. Project Brief
 2. Python Scripts
-3. [Link to Tableau Storyboard](https://public.tableau.com/views/CFFinalProject1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+3. [Link to Tableau Storyboard](https://public.tableau.com/views/AirbnbListingsinLosAngelesCalifornia/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
