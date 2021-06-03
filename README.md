@@ -7,6 +7,6 @@ Guest reviews play a critical role and are highly influential in future guest bo
 This case study explores what factors may contribute to an Airbnb listings' number of reviews and provides a dashboard to serve as a planning tool for current and potential future hosts to view key listing statistics in neighborhoods throughout Los Angeles.
 
 ## What's Included?
-Project Brief
-Python Scripts
-[Link to Tableau Storyboard](https://public.tableau.com/views/CFFinalProject1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+1. Project Brief
+2. Python Scripts
+3. [Link to Tableau Storyboard](https://public.tableau.com/views/CFFinalProject1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
